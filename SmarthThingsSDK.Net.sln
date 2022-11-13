@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarthThingsSDK.Net", "SmarthThingsSDK.Net\SmarthThingsSDK.Net.csproj", "{F7AE4E23-9950-4106-B57C-A72226FFE36A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7AE4E23-9950-4106-B57C-A72226FFE36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AE4E23-9950-4106-B57C-A72226FFE36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AE4E23-9950-4106-B57C-A72226FFE36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AE4E23-9950-4106-B57C-A72226FFE36A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE8E98E-E167-485A-BBC2-A3AF93B4215D}
+	EndGlobalSection
+EndGlobal
